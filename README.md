@@ -35,15 +35,15 @@
 ### 🧍‍♀️개인
 |프로젝트 명|내용|기간|
 |---|-----|--|
-|[노션 클로닝](https://github.com/suehdn/FEDC4-5_Project_Notion_VanillaJS)|Vanila JS로 노션을 클로닝하는 프로젝트|`2023.07~`|
+|[Vanilla JS 문서 편집기](https://github.com/suehdn/VanillaJS_editor)|Vanilla JS로 문서 편집기를 만드는 프로젝트|`2023.07~`|
 
 ## 🔍Analysis
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suehdn&show_icons=true&theme=buefy)<br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=New-Barams&repo=this-year-ajaja-fe&show_owner=true&theme=buefy)](https://github.com/New-Barams/this-year-ajaja-fe)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suehdn&repo=FEDC4-5_Project_Notion_VanillaJS&show_owner=true&theme=buefy)](https://github.com/suehdn/FEDC4-5_Project_Notion_VanillaJS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prgrms-fe-devcourse&repo=FEDC4_SCRAWL_Yohan&show_owner=true&theme=buefy)](https://github.com/prgrms-fe-devcourse/FEDC4_SCRAWL_Yohan)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suehdn&repo=suehdn.github.io&show_owner=true&theme=buefy)](https://github.com/suehdn/suehdn.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suehdn&repo=VanillaJS_editor&show_owner=true&theme=buefy)](https://github.com/suehdn/VanillaJS_editor)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suehdn&repo=suehdn.github.io&show_owner=true&theme=buefy)](https://github.com/suehdn/suehdn.github.io)-->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=golagola2020&repo=hango-arduino&show_owner=true&theme=buefy)](https://github.com/golagola2020/hango-arduino)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=golagola2020&repo=hango-raspberry-pi&show_owner=true&theme=buefy)](https://github.com/golagola2020/hango-raspberry-pi)
 <!--
