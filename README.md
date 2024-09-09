@@ -2,10 +2,9 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=AHN%20HYE%20SU&fontSize=60&animation=fadeIn&fontAlignY=35)<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuehdn&count_bg=%23DAD2E9&title_bg=%23D4A7FB&icon=&icon_color=%23E7E7E7&title=github&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40ahyes&count_bg=%2397BDE0&title_bg=%23617DF8&icon=&icon_color=%23E7E7E7&title=blog&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 
-[My Blog](https://velog.io/@ahyes)
+[My Blog](https://useyhnha.tistory.com/)
 
 ## 🛠 Skills 
 ### 🔭 I’m currently working on 
@@ -27,25 +26,27 @@
 </div>
 
 ## 📌Project
+### 🧍‍♀️개인
+|프로젝트 명|내용|기간|
+|---|-----|--|
+|[Vanilla JS 문서 편집기](https://github.com/suehdn/VanillaJS_editor)|Vanilla JS로 문서 편집기를 만드는 프로젝트|`2023.07~`|
 ### 👪︎팀
 |프로젝트 명|내용|소속|기간|
 |---|-----|----|--|
 |[올해도 아좌좌](https://github.com/New-Barams/this-year-ajaja-fe)|신년 계획 리마인드 프로젝트|프로그래머스 데브코스|`2023.10~`|
 |[괴발개발](https://github.com/suehdn/FEDC4_SCRAWL_Yohan)|개발자를 위한 블로그형 커뮤니티|프로그래머스 데브코스|`2023.09`|
-### 🧍‍♀️개인
-|프로젝트 명|내용|기간|
-|---|-----|--|
-|[Vanilla JS 문서 편집기](https://github.com/suehdn/VanillaJS_editor)|Vanilla JS로 문서 편집기를 만드는 프로젝트|`2023.07~`|
+
 
 ## 🔍Analysis
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suehdn&show_icons=true&theme=buefy)<br>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suehdn&repo=VanillaJS_editor&show_owner=true&theme=buefy)](https://github.com/suehdn/VanillaJS_editor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=New-Barams&repo=this-year-ajaja-fe&show_owner=true&theme=buefy)](https://github.com/New-Barams/this-year-ajaja-fe)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prgrms-fe-devcourse&repo=FEDC4_SCRAWL_Yohan&show_owner=true&theme=buefy)](https://github.com/prgrms-fe-devcourse/FEDC4_SCRAWL_Yohan)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suehdn&repo=VanillaJS_editor&show_owner=true&theme=buefy)](https://github.com/suehdn/VanillaJS_editor)
+
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suehdn&repo=suehdn.github.io&show_owner=true&theme=buefy)](https://github.com/suehdn/suehdn.github.io)-->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=golagola2020&repo=hango-arduino&show_owner=true&theme=buefy)](https://github.com/golagola2020/hango-arduino)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=golagola2020&repo=hango-raspberry-pi&show_owner=true&theme=buefy)](https://github.com/golagola2020/hango-raspberry-pi)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=golagola2020&repo=hango-arduino&show_owner=true&theme=buefy)](https://github.com/golagola2020/hango-arduino)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=golagola2020&repo=hango-raspberry-pi&show_owner=true&theme=buefy)](https://github.com/golagola2020/hango-raspberry-pi)-->
 <!--
 **suehdn/suehdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
