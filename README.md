@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/github-8e3a94?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
-
+<!--
 ## 📌Project
 ### 🧍‍♀️개인
 |프로젝트 명|내용|기간|
@@ -35,15 +35,15 @@
 |---|-----|----|--|
 |[올해도 아좌좌](https://github.com/New-Barams/this-year-ajaja-fe)|신년 계획 리마인드 프로젝트|프로그래머스 데브코스|`2023.10~`|
 |[괴발개발](https://github.com/suehdn/FEDC4_SCRAWL_Yohan)|개발자를 위한 블로그형 커뮤니티|프로그래머스 데브코스|`2023.09`|
-
+-->
 
 ## 🔍Analysis
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suehdn&show_icons=true&theme=buefy)<br>
-
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suehdn&repo=VanillaJS_editor&show_owner=true&theme=buefy)](https://github.com/suehdn/VanillaJS_editor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=New-Barams&repo=this-year-ajaja-fe&show_owner=true&theme=buefy)](https://github.com/New-Barams/this-year-ajaja-fe)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prgrms-fe-devcourse&repo=FEDC4_SCRAWL_Yohan&show_owner=true&theme=buefy)](https://github.com/prgrms-fe-devcourse/FEDC4_SCRAWL_Yohan)
-
+-->
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suehdn&repo=suehdn.github.io&show_owner=true&theme=buefy)](https://github.com/suehdn/suehdn.github.io)-->
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=golagola2020&repo=hango-arduino&show_owner=true&theme=buefy)](https://github.com/golagola2020/hango-arduino)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=golagola2020&repo=hango-raspberry-pi&show_owner=true&theme=buefy)](https://github.com/golagola2020/hango-raspberry-pi)-->
